@@ -3,7 +3,7 @@ function lucaComponents() {
 }
 
 function test_log() {
-  console.log('I am v0.0.5 of lucaComponents');
+  console.log('I am v0.0.6 of lucaComponents');
 }
 
 'use strict';
