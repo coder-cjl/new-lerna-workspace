@@ -1,0 +1,19 @@
+{
+  "name": "luca_components",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "雷子 <jianlei.chen@lucahealthcare.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/luca_components.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/luca_components.test.js"
+  }
+}
