@@ -4864,7 +4864,7 @@ dns-packet@^5.2.2:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
 "doctor@file:/Volumes/lucaAssets/luca/h5/monorepo/new-lerna-workspace/packages/doctor":
-  version "0.0.2"
+  version "0.0.4"
   resolved "file:packages/doctor"
   dependencies:
     "@babel/runtime" "^7.24.4"
@@ -4883,7 +4883,7 @@ dns-packet@^5.2.2:
     "@tarojs/runtime" "4.0.7"
     "@tarojs/shared" "4.0.7"
     "@tarojs/taro" "4.0.7"
-    luca_components "0.0.2"
+    luca_components "^0.0.3"
     react "^18.0.0"
     react-dom "^18.0.0"
 
@@ -8034,8 +8034,8 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-luca_components@^0.0.2, luca_components@0.0.2, "luca_components@file:/Volumes/lucaAssets/luca/h5/monorepo/new-lerna-workspace/packages/luca_components":
-  version "0.0.2"
+luca_components@^0.0.4, "luca_components@file:/Volumes/lucaAssets/luca/h5/monorepo/new-lerna-workspace/packages/luca_components":
+  version "0.0.4"
   resolved "file:packages/luca_components"
 
 make-dir@^1.0.0:
@@ -9322,7 +9322,7 @@ path-type@^5.0.0:
   integrity sha512-5HviZNaZcfqP95rwpv+1HDgUamezbqdSYTyzjTvwtJSnIH+3vnbmWsItli8OFEndS984VT55M3jduxZbX351gg==
 
 "patient@file:/Volumes/lucaAssets/luca/h5/monorepo/new-lerna-workspace/packages/patient":
-  version "0.0.2"
+  version "0.0.4"
   resolved "file:packages/patient"
   dependencies:
     "@babel/runtime" "^7.24.4"
@@ -9341,7 +9341,7 @@ path-type@^5.0.0:
     "@tarojs/runtime" "4.0.7"
     "@tarojs/shared" "4.0.7"
     "@tarojs/taro" "4.0.7"
-    luca_components "^0.0.1"
+    luca_components "^0.0.3"
     react "^18.0.0"
     react-dom "^18.0.0"
 
