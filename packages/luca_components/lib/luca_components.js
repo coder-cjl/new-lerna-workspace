@@ -10,9 +10,14 @@ function test_log1() {
   console.log('I am v0.0.6 of lucaComponents - 1');
 }
 
+function test_log2() {
+  console.log('I am v0.0.6 of lucaComponents - 1');
+}
+
 'use strict';
 module.exports = {
   lucaComponents,
   test_log,
   test_log1,
+  test_log2,
 };
